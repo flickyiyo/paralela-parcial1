@@ -1,0 +1,11 @@
+
+Csquid:S1068	"%Remove this unused "f" private field.(ß ÀÆ8˜ïº´“-
+nsquid:S1450	"PRemove the "f" field and declare it as a local variable in the relevant methods.(ß ÀÆ8˜ïº´“-
+V
+squid:S106$"9Replace this use of System.out or System.err by a logger.(¾‰‹¤8ïäöë’-
+isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(€±Œ‡8ŒÙ­Ò”-
+Ž"squid:ClassVariableVisibilityCheck"YMake numeroTenedor a static final constant or non-public and provide accessors if needed.(¹æÒ®8°ÊÄÐ’-
+‹"squid:ClassVariableVisibilityCheck"QMake frame a static final constant or non-public and provide accessors if needed.(»¬Ãçüÿÿÿÿ8…¶ÄÑ’-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(‰ø«·ýÿÿÿÿ8Œ…ÍÒ”-
+"squid:ClassVariableVisibilityCheck"SMake isEnUso a static final constant or non-public and provide accessors if needed.(¹£Öûÿÿÿÿ8ð¾Â©’-
