@@ -1,10 +1,10 @@
 
-lsquid:MaximumInheritanceDepth"<This class has 6 parents which is greater than 5 authorized.(ð¥ñø8‘œ£µ‘-
-[squid:S1197"8Move the array designator from the variable to the type.(å©Éóøÿÿÿÿ8›£ÙÑ’-
 squid:S1319"zThe type of the "labelsTenedores" object should be an interface such as "List" rather than the implementation "ArrayList".(ÀßˆŒÿÿÿÿÿ8Á¢ÃÑ’-
-•"squid:ClassVariableVisibilityCheck"[Make labelsTenedores a static final constant or non-public and provide accessors if needed.(ÀßˆŒÿÿÿÿÿ8Á¢ÃÑ’-
-_squid:UselessImportCheck"4Remove this unused import 'java.lang.reflect.Array'.(‡¡É˜8Òàü¶‘-
-Hsquid:S001088")Either remove or fill this block of code.(óÖ‡8»÷Ð’-
 [squid:S1197"8Move the array designator from the variable to the type.(Ù¶ÃÌûÿÿÿÿ8¢´ØÑ’-
 [
 squid:S106"9Replace this use of System.out or System.err by a logger.(ŒŸ¼¥üÿÿÿÿ8”ÅðÑ’-
+•"squid:ClassVariableVisibilityCheck"[Make labelsTenedores a static final constant or non-public and provide accessors if needed.(ÀßˆŒÿÿÿÿÿ8Á¢ÃÑ’-
+lsquid:MaximumInheritanceDepth"<This class has 6 parents which is greater than 5 authorized.(ð¥ñø8‘œ£µ‘-
+Hsquid:S00108<")Either remove or fill this block of code.(óÖ‡8»÷Ð’-
+_squid:UselessImportCheck"4Remove this unused import 'java.lang.reflect.Array'.(‡¡É˜8Òàü¶‘-
+[squid:S1197"8Move the array designator from the variable to the type.(å©Éóøÿÿÿÿ8›£ÙÑ’-

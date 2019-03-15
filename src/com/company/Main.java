@@ -19,7 +19,7 @@ public class Main extends JFrame implements Runnable {
     long thinkTimes[] = {3000, 1400, 2345, 2000, 5000};
 
     public Main() {
-        this.setBounds(0, 0, 500, 500);
+        this.setBounds(500,500, 500, 500);
         this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         this.setVisible(true);
         this.tenedores = new ArrayList<>(5);
@@ -49,6 +49,10 @@ public class Main extends JFrame implements Runnable {
             this.add(labelsTenedores.get(i));
             this.add(labelsFilosofos.get(i));
         }
+    }
+
+    public synchronized boolean tenedoresDisponibles (Tenedor t1, Tenedor t2) {
+        return !t1.isEnUso && !t2.isEnUso;
     }
 
     @Override

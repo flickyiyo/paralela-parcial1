@@ -1,0 +1,15 @@
+
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(êğÉ“8›©äÕ–-
+Fsquid:S1125")Remove the literal "false" boolean value.(ú™¼p8÷âÎ–-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(î®Ãªüÿÿÿÿ8÷ƒæÕ–-
+V
+squid:S106'"9Replace this use of System.out or System.err by a logger.(¶ğ™8€²óÕ–-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(Š³”şÿÿÿÿ8àâÄÕ–-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(«å‘úÿÿÿÿ8½ÿ Õ–-
+Hsquid:S00108")Either remove or fill this block of code.(şŠ ı8÷âÎ–-
+Lsquid:S1068")Remove this unused "datos" private field.(À…ó´ıÿÿÿÿ8¶­„Ö–-
+Hsquid:S00108%")Either remove or fill this block of code.(şŠ ı8Õ£‚Ï–-

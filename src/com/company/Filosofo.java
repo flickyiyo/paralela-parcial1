@@ -7,7 +7,7 @@ public class Filosofo implements Runnable {
     private long eatTime;
     private long thinkTime;
     private Main frame;
-    private Tenedor tIzq, tDer;
+    private Tenedor  tIzq, tDer;
     private String name;
     public JLabel label;
     public int nFilosofo;
@@ -78,7 +78,9 @@ public class Filosofo implements Runnable {
     }
 
     public synchronized void eat() {
+
         synchronized (tIzq) {
+
             synchronized (tDer){
                 System.out.println(getName() + " quiere comer");
                 tIzq.usar(this);

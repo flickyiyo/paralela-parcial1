@@ -1,0 +1,9 @@
+
+Hsquid:S1481"*Remove this unused "frame" local variable.(…ÅİÕ8ìÇÏ–-
+Jsquid:S1948
+",Make "contenedor" transient or serializable.(Ò£Ù8ó¡ÆÏ–-
+Jsquid:S1948",Make "consumidor" transient or serializable.(ªÇõ¤8ó¡ÆÏ–-
+[squid:S1197"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ8ÚÔĞÎ–-
+Nsquid:S1948"+Make "productor" transient or serializable.(­ˆ—¬şÿÿÿÿ8ó¡ÆÏ–-
+Hsquid:S001084")Either remove or fill this block of code.(óÖ‡8ñ—áÕ–-
+lsquid:MaximumInheritanceDepth"<This class has 6 parents which is greater than 5 authorized.(‘†á¬8š‹Ê–-
