@@ -1,7 +1,7 @@
 
-“squid:S13198"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(–ü†şşÿÿÿÿ8ÕËı—-
-Nsquid:S1068	"+Remove this unused "barbero" private field.(Öİ«Úşÿÿÿÿ8ˆÔÂş—-
+–squid:S1319X"sThe type of the "clientes" object should be an interface such as "List" rather than the implementation "ArrayList".(È‘¢‡ÿÿÿÿÿ8õÕÕ˜-
+“squid:S1319T"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(–ü†şşÿÿÿÿ8õÕÕ˜-
+Nsquid:S24464"0"notify" may not wake up the appropriate thread.(Ú¥Ü8Îòš˜-
 ^squid:S2134"@Don't extend "Thread", since the "run" method is not overridden.(šà¼™8¤”¨ı—-
-–squid:S1319<"sThe type of the "clientes" object should be an interface such as "List" rather than the implementation "ArrayList".(È‘¢‡ÿÿÿÿÿ8áÀÌı—-
-hsquid:HiddenFieldCheck":Rename "barbero" which hides the field declared at line 9.(¶’âáüÿÿÿÿ8Úüş—-
-ysquid:S1450	"VRemove the "barbero" field and declare it as a local variable in the relevant methods.(Öİ«Úşÿÿÿÿ8÷ïÁÿ—-
+hsquid:HiddenFieldCheck":Rename "barbero" which hides the field declared at line 9.(¶’âáüÿÿÿÿ8Úüş—-
+isquid:CommentedOutCodeLine+"<This block of commented-out lines of code should be removed.(Şİìì8ß°¯˜-

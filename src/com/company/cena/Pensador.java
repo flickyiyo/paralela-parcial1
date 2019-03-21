@@ -39,8 +39,10 @@ public class Pensador extends Thread {
     }
 
     public void pedirTenedores() throws InterruptedException {
-        if (tendorIzq.getPensador()!=this) pedirTenedor(tendorIzq);
-        if (tenedorDer.getPensador()!=this) pedirTenedor(tenedorDer);
+        while (tenedorDer.getPensador() != this || tendorIzq.getPensador() != this) {
+            if (tendorIzq.getPensador()!=this) pedirTenedor(tendorIzq);
+            if (tenedorDer.getPensador()!=this) pedirTenedor(tenedorDer);
+        }
     }
 
     public void pedirTenedor(Tenedor t) throws InterruptedException {

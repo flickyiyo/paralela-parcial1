@@ -1,0 +1,6 @@
+
+squid:S1319"qThe type of the "vuelos" object should be an interface such as "List" rather than the implementation "ArrayList".(õæ‹Ë8§Ô¯Û™-
+Asquid:S1148"#Use a logger to log this exception.(í»Âµ8Îÿ²Ü™-
+”squid:S1319="qThe type of the "vuelos" object should be an interface such as "List" rather than the implementation "ArrayList".(¾ÿƒ¬úÿÿÿÿ8óÄ±Û™-
+dsquid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(í»Âµ8Îÿ²Ü™-
+“squid:S13195"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ƒÆùšùÿÿÿÿ8óÄ±Û™-

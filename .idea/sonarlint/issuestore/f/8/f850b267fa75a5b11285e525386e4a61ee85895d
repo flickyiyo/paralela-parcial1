@@ -1,2 +1,10 @@
 
-qsquid:MaximumInheritanceDepth"<This class has 6 parents which is greater than 5 authorized.(ïÞ†ùÿÿÿÿ8·£òü—-
+¤squid:S1186?"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(®î’×üÿÿÿÿ8»è„˜-
+ksquid:MaximumInheritanceDepth"<This class has 6 parents which is greater than 5 authorized.(ü¼Ä8·£òü—-
+Ÿsquid:S1186D"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ãÆÐÂ8»è„˜-
+[squid:UselessImportCheck"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8ƒÜŽ˜-
+dsquid:S21429"FEither re-interrupt this method or rethrow the "InterruptedException".(‘í†8‰È‹˜-
+Hsquid:S00108Y")Either remove or fill this block of code.(óÖ‡8¿Ñ×˜-
+¤squid:S1186I"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ö„˜þúÿÿÿÿ8»è„˜-
+Fsquid:S1148:"#Use a logger to log this exception.(Âþÿâûÿÿÿÿ8‰È‹˜-
+¤squid:S1186N"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(•ßçùÿÿÿÿ8»è„˜-

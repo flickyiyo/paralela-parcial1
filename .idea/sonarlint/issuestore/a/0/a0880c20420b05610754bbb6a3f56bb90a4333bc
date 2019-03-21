@@ -1,0 +1,8 @@
+
+bsquid:S2886K"DSynchronize this method to match the synchronization on "setNombre".(•ß½8ó¨Í™-
+Xsquid:S1191"5Use classes from the Java API instead of Sun classes.(áÏ¸ıÿÿÿÿ8¢Í‹Í™-
+Psquid:S1172""-Remove this unused method parameter "lector".(ß¢ˆÌúÿÿÿÿ8ŸÊŞ™-
+|squid:UselessImportCheck"LRemove this unused import 'com.sun.org.apache.bcel.internal.generic.RETURN'.(áÏ¸ıÿÿÿÿ8¢Í‹Í™-
+“squid:S1319o"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(˜ïºÁùÿÿÿÿ8å©¸Û™-
+‘squid:S1319s"sThe type of the "lectores" object should be an interface such as "List" rather than the implementation "ArrayList".(¤­Ô8å©¸Û™-
+asquid:S2886G"CSynchronize this method to match the synchronization on "setFecha".(ç•‹ğ8ó¨Í™-
